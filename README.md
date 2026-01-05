@@ -5,9 +5,9 @@ I implemented a **time-series forecasting model** to predict **monthly electrici
 ---
 
 ## 🎯 Objective
-- Analyze historical monthly electricity consumption
+- Analyze historical monthly electricity bill
 - Capture trends and seasonal patterns
-- Predict future electricity usage
+- Predict future electricity amount
 
 ---
 
