@@ -1,6 +1,6 @@
 # ⚡ Time Series Prediction of Monthly Electricity Consumption using RNN (LSTM)
 
-In this project, I implemented a **time-series forecasting model** to predict **monthly electricity consumption** using a **Recurrent Neural Network (LSTM)**. Since electricity usage depends on historical patterns, sequence-based deep learning models are more suitable than traditional machine learning approaches.
+I implemented a **time-series forecasting model** to predict **monthly electricity consumption** using a **Recurrent Neural Network (LSTM)**. Since electricity usage depends on historical patterns, sequence-based deep learning models are more suitable than traditional machine learning approaches.
 
 ---
 
